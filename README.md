@@ -33,7 +33,7 @@
 
 ## 🎬 Démonstration du projet
 
-[![Voir la vidéo](images/demo.png)](https://www.linkedin.com/posts/mouad-belkouri-32899a305_iot-agricultureintelligente-smartfarming-activity-7410752666923950080-buAe)
+[![Voir la vidéo]](https://www.linkedin.com/posts/mouad-belkouri-32899a305_iot-agricultureintelligente-smartfarming-activity-7410752666923950080-buAe)
 
 <p align="left">
   
