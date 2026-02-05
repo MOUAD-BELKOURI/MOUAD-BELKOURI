@@ -21,7 +21,7 @@
 ---
 
 ## 📫 Contact
-- **LinkedIn :** [Mouad Belkouri](www.linkedin.com/in/mouad-belkouri)
+- **LinkedIn :** [Mouad Belkouri]([www.linkedin.com/in/mouad-belkouri](https://www.linkedin.com/in/mouad-belkouri-32899a305/))
 - **Email :** belkourimouad1@gmail.com
 
 ---
