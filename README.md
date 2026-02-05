@@ -30,6 +30,10 @@
 - **Email :** belkourimouad1@gmail.com
 
 ---
+## 🎬 Démonstration du projet
+
+[![Voir la vidéo](https://raw.githubusercontent.com/MOUAD-BELKOURI/MOUAD-BELKOURI/main/iot-agricultureintelligente.mp4)](https://github.com/MOUAD-BELKOURI/MOUAD-BELKOURI/blob/main/iot-agricultureintelligente.mp4)
+
 
 ##  Langages 
 <p align="left">
