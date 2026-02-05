@@ -30,12 +30,11 @@
 - **Email :** belkourimouad1@gmail.com
 
 ---
+
 ## 🎬 Démonstration du projet
 
-[![Voir la vidéo](https://raw.githubusercontent.com/MOUAD-BELKOURI/MOUAD-BELKOURI/main/iot-agricultureintelligente.mp4)](https://github.com/MOUAD-BELKOURI/MOUAD-BELKOURI/blob/main/iot-agricultureintelligente.mp4)
+[![Voir la vidéo](images/demo.png)](https://www.linkedin.com/posts/mouad-belkouri-32899a305_iot-agricultureintelligente-smartfarming-activity-7410752666923950080-buAe)
 
-
-##  Langages 
 <p align="left">
   
   <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
