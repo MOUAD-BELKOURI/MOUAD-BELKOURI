@@ -13,9 +13,9 @@
 ---
 
 ## 💬 Compétences
-- **Langages de programmation :** Python, Java, JavaScript, TypeScript, PHP, Kotlin, C
-- **Frameworks et bibliothèques :** React, React Native, Vue, Node.js, Next.js, Nuxt.js, Spring Boot
-- **Bases de données :** MySQL, PostgreSQL, Oracle, MongoDB, SQL Server
+- **Langages de programmation :**  Java ,PHP ,Java ,JavaScript ,TypeScript ,Kotlin ,Python ,C
+- **Frameworks et bibliothèques :** ,Spring Boot,React, React Native, Vue, Node.js, Next.js
+- **Bases de données :** MySQL, PostgreSQL, Oracle, SQL Server
 - **Outils & Technologies :** Git, Linux, Postman, Docker, Arduino, Figma, Tailwind, Bootstrap
 
 ---
@@ -24,9 +24,7 @@
 - **LinkedIn :** [Mouad Belkouri](https://linkedin.com/in/mouad-belkouri)
 - **Email :** belkourimouad1@gmail.com
 
-
 ---
-
 
 ## ⚡ Langages et outils
 <p align="left">
