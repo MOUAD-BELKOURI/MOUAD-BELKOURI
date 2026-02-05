@@ -1,5 +1,10 @@
 <h1 align="center">Salut 👋, je suis Mouad Belkouri</h1>
 <h3 align="center">Étudiant en 4ᵉ année de Génie Logiciel </h3>
+<div align="center">
+  <a href="https://noah-lc.github.io/noah-lc/">
+    <img src="https://github.com/Noah-Lc/noah-lc/blob/main/assets/grid-snake.svg" alt="snake" />
+  </a>
+</div>
 
 ---
 
